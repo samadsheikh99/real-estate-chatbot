@@ -1,0 +1,10 @@
+pandas==2.2.2
+numpy==1.26.3
+scikit-learn==1.4.2
+fastapi==0.111.0
+uvicorn==0.29.0
+streamlit==1.32.2
+python-dotenv==1.0.1
+langchain==0.1.16
+huggingface_hub==0.22.2
+
